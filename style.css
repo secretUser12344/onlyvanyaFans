@@ -7,7 +7,7 @@ body {
 
 .main {
 	min-height: 100vh;
-	background-image: url('./IMG/image4.jpg');
+	background-image: url('./img/image4.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	display: flex;
